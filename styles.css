@@ -1,0 +1,29 @@
+#hero
+{
+  background-image: url(img/toner.jpg);
+  color: white;
+  font-family: 'Kaushan Script', 'Helvetica Neue', 'Helvetica, Arial', cursive;
+  background-repeat: no-repeat;
+  padding-top: 7em;
+  padding-bottom: 7em;
+}
+#about-section{
+  background-image: url(img/city.jpg);
+  color: white;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  
+}
+.button-link{
+  background-color: rgb(244, 51, 144);
+  color: white;
+  border-radius: 5%;
+  padding: 10px 10px 10px 10px;
+}
+.bg {
+  background-size:cover;
+}
+i{
+  width: 70px;
+  height: 70px;
+}
